@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Travel Planner",
+  "description": "A real-time collaborative travel planning application with sharing, interactive itinerary boards, responsive budget splits, location lookup, and intelligent recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
